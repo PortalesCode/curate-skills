@@ -1,5 +1,5 @@
 ---
-name: frontend-design
+name: frontend-design-from-farmage
 description: Usar para diseñar e implementar componentes de UI, layouts, sistemas de diseño o interfaces responsivas. Cubre accesibilidad, patrones CSS/Tailwind, arquitectura de componentes y flujos de diseño a código. Términos de activación: diseño UI, diseño de componentes, sistema de diseño, accesibilidad, Tailwind CSS, layout responsive, arquitectura CSS, animaciones.
 license: MIT
 compatibility: opencode

@@ -1,5 +1,5 @@
 ---
-name: frontend-design
+name: frontend-design-from-farmage
 description: Use when designing and implementing UI components, layouts, design systems, or responsive interfaces. Covers accessibility, CSS/Tailwind patterns, component architecture, and design-to-code workflows. Trigger terms: UI design, component design, design system, accessibility, Tailwind CSS, responsive layout, CSS architecture, animations.
 license: MIT
 compatibility: opencode
